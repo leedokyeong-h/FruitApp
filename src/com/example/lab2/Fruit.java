@@ -30,7 +30,7 @@ public class Fruit {
 		this.name = name;
 	}
 	public int getPrice() {
-		return price;
+		return price; 
 	}
 	public void setPrice(int price) {
 		this.price = price;

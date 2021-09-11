@@ -29,7 +29,7 @@ public class Main {
 		Fruit s9 = new Fruit("Pear",32,107);
 		f1.add(s9);
 		Fruit s10 = new Fruit("Peach",50,108);
-		f1.add(s10);
+		f1.add(s10); 
 		
 		Collections.sort( f1, new FruitComparator());
 		for (Fruit s : f1) {
